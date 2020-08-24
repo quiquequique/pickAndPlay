@@ -1,4 +1,6 @@
-# Grupo 1
+## Proyecto Integrador Digital House 2020
+## Desarrollo Web Full Stack
+## eComerce en nodeJs con express y ejs con algo de ReactJs
 ![Logo](https://user-images.githubusercontent.com/61567182/79498247-5a80cd00-7fff-11ea-88c7-0279911f1585.png)
 # Pick 'n' Play
 ## Integrantes: Abramzon Enrique, Daneri Nahuel, Toyos Francisco
